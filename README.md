@@ -9,9 +9,9 @@ Se creo el arbol binario y la clase de nodos, junto a la clase ArbolBinario se c
 
 Segundo:
 Se crearon los metodos inorden, preorden y postorden para poder imprimir nuestro arbol binario de manera sencilla y facil de leer:
--Inorden: imprime la raiz al centro de las 2 ramas de sus hijos
--Preorden: imprime la raiz al incio, le suigen los hijos izquierdos y despues los derechos
--Postorden: imprime los hijos izquierdos primero, luego los derechos y por ultimo la raiz
++ Inorden: imprime la raiz al centro de las 2 ramas de sus hijos
++ Preorden: imprime la raiz al incio, le suigen los hijos izquierdos y despues los derechos
++ Postorden: imprime los hijos izquierdos primero, luego los derechos y por ultimo la raiz
 
 Tercero:
 Impleme los metodos para buscar un valor dentro del arbol binario, a su vez el programa debe de informarle si el valor que busca es la "RAIZ", una "HOJA", un nodo con "UN HIJO" o "DOS HIJOS" y si el nodo "NO EXISTE"
